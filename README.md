@@ -25,6 +25,6 @@ The goal of this challenge was to create a functional map that displays earthqua
 
 Please visit the github page below for the full experience:
 
-![leaflet GitHub page](https://maderamel.github.io/leaflet-challenge/)
+[leaflet GitHub page](https://maderamel.github.io/leaflet-challenge/)
 
 
